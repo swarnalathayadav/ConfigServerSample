@@ -1,0 +1,5 @@
+config:
+  client:
+    Name: swarnarajyadav
+    productlist[0]: 10
+    productlist[1]: 20
