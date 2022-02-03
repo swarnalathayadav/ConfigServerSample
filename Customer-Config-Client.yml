@@ -1,5 +1,5 @@
 config:
   client:
     Name: swarnarajyadav
-    productlist[0]: 10
-    productlist[1]: 20
+    Productlist[0]: 10
+    Productlist[1]: 20
